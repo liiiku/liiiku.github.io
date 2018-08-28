@@ -2,7 +2,7 @@
 title: 李小胖的博客|随笔
 description: 记录一些点点滴滴
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://liiiku.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: 李小胖的博客
