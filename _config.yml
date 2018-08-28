@@ -1,7 +1,7 @@
 # Site settings
 title: 李小胖的博客|随笔
 description: 记录一些点点滴滴
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://liiiku.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
